@@ -1,4 +1,4 @@
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/your_profile">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,9 +13,7 @@
 <br>
 <br>
 
-  Привет, меня зовут Алексей. 
-  
-  Сейчас я работаю системным администратором и активно изучаю DevOps.
+  My name is Alexey. 
 
 <br>
   
@@ -26,14 +24,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-🚧 **Мои задачи на ближайшее время:**
+🚧 **My list of tasks to learn:**
 <!-- TODO-IST:START -->
 
-      [ ] AWS
+      [*] AWS
       
       [ ] KUBERNETES
       
       [ ] TERRAFORM
+      
+      [ ] CLOUDFORMATION
       
       [ ] ANSIBLE
       
