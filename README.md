@@ -30,8 +30,13 @@
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
+
       [ ] AWS
+      
       [ ] KUBERNETES
+      
       [ ] TERRAFORM
+      
       [ ] ANSIBLE
+      
 <!-- TODO-IST:END -->
